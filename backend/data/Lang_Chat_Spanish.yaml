@@ -1,0 +1,29 @@
+
+course_name: "Spanish 1"
+
+course_id: "SPANISH1"
+
+unit_name: "Greetings"
+
+unit_id: "UNIT1"
+
+study_guide_file: ""
+
+introduction: >
+  "¡Hola! Hoy practicaremos el vocabulario y el español 
+  que hemos aprendido hasta ahora. Por favor hable sólo en 
+  español y no tenga miedo de cometer errores. Puede 
+  volver a intentarlo tantas veces como desee hasta 
+  alcanzar la calificación deseada. Para hablar, mantenga 
+  presionado el botón en la parte inferior de la pantalla y 
+  suéltelo cuando haya terminado."
+
+starting_prompt: "Hola"
+
+learning_objectives:
+  - "Aprender vocabulario y gramática."
+
+grading_prompt: >
+  ""
+
+
